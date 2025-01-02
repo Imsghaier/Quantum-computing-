@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789da65e-45ad-49de-ab67-f643d501bb6b" name="Changes" comment="initial commit">
+    <list default="true" id="789da65e-45ad-49de-ab67-f643d501bb6b" name="Changes" comment="final pushing">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,16 +36,17 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Imsghaier"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Imsghaier&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Imsghaier/shor_and_grover_algorithm-s.git",
+    "url": "https://github.com/Imsghaier/Quantum-computing-.git",
     "accountId": "e5aba6bb-0c35-4dc2-8a4c-f9074106ad96"
   }
 }]]></component>
@@ -54,22 +59,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.curse.executor": "Run",
-    "Python.grover's_algorithm.executor": "Run",
-    "Python.shor's_algorithm.executor": "Run",
-    "Python.test_qiskit_aer.executor": "Run",
-    "Python.trial for the grover algorithm.executor": "Run",
-    "Python.trial.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.curse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grover's_algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shor's_algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_qiskit_aer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trial for the grover algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trial.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
@@ -113,12 +118,30 @@
       <option name="project" value="LOCAL" />
       <updated>1735808232998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final oushing">
+      <option name="closed" value="true" />
+      <created>1735809290576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735809290576</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final pushing">
+      <option name="closed" value="true" />
+      <created>1735809559897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735809559897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my last version of shor grover algorithms" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="final oushing" />
+    <MESSAGE value="final pushing" />
+    <option name="LAST_COMMIT_MESSAGE" value="final pushing" />
   </component>
 </project>
